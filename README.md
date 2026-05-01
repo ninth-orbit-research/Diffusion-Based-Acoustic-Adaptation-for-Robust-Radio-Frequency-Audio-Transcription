@@ -100,12 +100,3 @@ python inference.py \
 | Medium (5-10 dB) | 58.1% | 31.8% | 19.4% | 67% |
 | Low (0-5 dB) | 75.2% | 46.7% | 26.8% | 64% |
 | **Overall** | **43.6%** | **25.4%** | **15.2%** | **65%** |
-
-## Citation
-
-```bibtex
-@article{rf_asr_2024,
-  title={Robust ASR in RF-Degraded Environments via LoRA Adaptation and Diffusion-Inspired Acoustic Refinement},
-  year={2024}
-}
-```

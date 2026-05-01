@@ -85,7 +85,7 @@ python inference.py \
 
 ## Key Features
 
-- **Parameter Efficiency**: Only 8.2M LoRA parameters (1% of Whisper)
+- **Parameter Efficiency**: 1% of Whisper
 - **No Paired Clean Data Required**: Uses transcript supervision instead
 - **Gradient Flow**: End-to-end backpropagation through refinement steps
 - **Stability**: Identity initialization + margin regularization
